@@ -1,0 +1,11 @@
+*
+!**/
+!.gitignore
+!**/*.cpp
+!**/*.h
+!**/*.hpp	
+!**/*.java
+!**/*.asm
+!**/*.py
+.idea
+cmake-build-debug

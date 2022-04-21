@@ -1,0 +1,23 @@
+#pragma once
+
+#define ID_READ_FILE 0
+#define ID_USER_INPUT 1
+
+#define ON_ROTATE 10
+#define OFF_ROTATE 11
+
+#define ID_STATUSBAR 100
+
+#define TIMER_ROTATE 1000
+#define TIMER_COLOR 1001
+
+#define DIALOG_OK 500
+#define DIALOG_LINES 501
+#define DIALOG_RADIUS 502
+
+#define UPDATE_PARAMS 123
+
+#define CHANGE_COLOR_STANDART 45
+#define CHANGE_COLOR_USER 46
+
+#define DRAW_RECT 666
